@@ -979,7 +979,7 @@ static void Task_NewGameSpeech16(u8 taskId)
         PlaySE(SE_SELECT);
         gSaveBlock2.playerGender = MALE;
         Menu_EraseWindowRect(2, 4, 8, 9);
-        gTasks[taskId].func = Task_NewGameSpeech19;
+        DoSoftReset();
         break;
     case FEMALE:
         Menu_DestroyCursor();
