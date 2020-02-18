@@ -101,7 +101,7 @@ void SetUpBattleVarsAndBirchPoochyena(void)
     if (gBattleTypeFlags & BATTLE_TYPE_FIRST_BATTLE)
     {
         ZeroEnemyPartyMons();
-        CreateMon(&gEnemyParty[0], SPECIES_POOCHYENA, 2, 32, 0, 0, 0, 0);
+        CreateMon(&gEnemyParty[0], SPECIES_AZURILL, 2, 32, 0, 0, 0, 0);
         i = ITEM_NONE;
         SetMonData(&gEnemyParty[0], MON_DATA_HELD_ITEM, &i);
     }
