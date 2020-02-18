@@ -7036,7 +7036,7 @@ const struct TrainerMonNoItemDefaultMoves gTrainerParty_Brendan1[] = {
     {
 	.iv = 0,
 	.level = 5,
-	.species = SPECIES_TREECKO
+	.species = SPECIES_AZURILL
     }
 };
 
@@ -7080,7 +7080,7 @@ const struct TrainerMonNoItemDefaultMoves gTrainerParty_Brendan4[] = {
     {
 	.iv = 0,
 	.level = 5,
-	.species = SPECIES_TORCHIC
+	.species = SPECIES_AZURILL
     }
 };
 
@@ -7124,7 +7124,7 @@ const struct TrainerMonNoItemDefaultMoves gTrainerParty_Brendan7[] = {
     {
 	.iv = 0,
 	.level = 5,
-	.species = SPECIES_MUDKIP
+	.species = SPECIES_AZURILL
     }
 };
 
@@ -7168,7 +7168,7 @@ const struct TrainerMonNoItemDefaultMoves gTrainerParty_May1[] = {
     {
 	.iv = 0,
 	.level = 5,
-	.species = SPECIES_TREECKO
+	.species = SPECIES_AZURILL
     }
 };
 
@@ -7212,7 +7212,7 @@ const struct TrainerMonNoItemDefaultMoves gTrainerParty_May4[] = {
     {
 	.iv = 0,
 	.level = 5,
-	.species = SPECIES_TORCHIC
+	.species = SPECIES_AZURILL
     }
 };
 
@@ -7256,7 +7256,7 @@ const struct TrainerMonNoItemDefaultMoves gTrainerParty_May7[] = {
     {
 	.iv = 0,
 	.level = 5,
-	.species = SPECIES_MUDKIP
+	.species = SPECIES_AZURILL
     }
 };
 
