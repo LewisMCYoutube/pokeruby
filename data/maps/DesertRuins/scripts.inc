@@ -55,10 +55,10 @@ DesertRuins_EventScript_15CB85:: @ 815CB85
 	lock
 	faceplayer
 	waitse
-	playmoncry SPECIES_REGIROCK, 2
+	playmoncry SPECIES_GEODUDE, 2
 	delay 40
 	waitmoncry
-	setwildbattle SPECIES_REGIROCK, 40, ITEM_NONE
+	setwildbattle SPECIES_GEODUDE, 40, ITEM_NONE
 	setflag FLAG_HIDE_REGIROCK
 	setflag FLAG_SYS_CTRL_OBJ_DELETE
 	special ScrSpecial_StartRegiBattle
