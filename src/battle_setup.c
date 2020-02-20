@@ -33,6 +33,7 @@
 #include "constants/songs.h"
 #include "constants/species.h"
 #include "constants/items.h"
+#include "data/text/species_names_en.h"
 
 extern u16 gSpecialVar_Result;
 
