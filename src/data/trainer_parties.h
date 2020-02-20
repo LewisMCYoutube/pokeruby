@@ -4455,7 +4455,7 @@ const struct TrainerMonNoItemDefaultMoves gTrainerParty_Allen[] = {
     {
 	.iv = 0,
 	.level = 3,
-	.species = SPECIES_TAILLOW
+	.species = SPECIES_AZURILL
     }
 };
 
