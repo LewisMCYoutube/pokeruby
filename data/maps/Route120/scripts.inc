@@ -216,8 +216,7 @@ Route120_EventScript_15189D:: @ 815189D
 	applymovement 30, Route120_Movement_1A0662
 	waitmovement 0
 	waitse
-	playmoncry SPECIES_
-	, 2
+	playmoncry SPECIES_AZUMARILL, 2
 	delay 40
 	waitmoncry
 	setwildbattle SPECIES_AZUMARILL, 30, ITEM_NONE
