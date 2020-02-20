@@ -216,10 +216,11 @@ Route120_EventScript_15189D:: @ 815189D
 	applymovement 30, Route120_Movement_1A0662
 	waitmovement 0
 	waitse
-	playmoncry SPECIES_KECLEON, 2
+	playmoncry SPECIES_
+	, 2
 	delay 40
 	waitmoncry
-	setwildbattle SPECIES_KECLEON, 30, ITEM_NONE
+	setwildbattle SPECIES_AZUMARILL, 30, ITEM_NONE
 	setvar VAR_0x8004, 0
 	setflag FLAG_SYS_CTRL_OBJ_DELETE
 	dowildbattle
