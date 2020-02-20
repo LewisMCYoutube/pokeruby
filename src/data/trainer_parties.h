@@ -581,8 +581,8 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Dusty1[] = {
     {
 	.iv = 50,
 	.level = 24,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_DIG, MOVE_SLASH, MOVE_SAND_ATTACK, MOVE_POISON_STING
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_DIG, MOVE_SLASH, MOVE_SAND_ATTACK, MOVE_POISON_STING
     }
 };
 
@@ -590,20 +590,20 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Chip[] = {
     {
 	.iv = 50,
 	.level = 28,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_DIG, MOVE_SLASH, MOVE_SAND_ATTACK, MOVE_POISON_STING
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_DIG, MOVE_SLASH, MOVE_SAND_ATTACK, MOVE_POISON_STING
     },
     {
 	.iv = 50,
 	.level = 28,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_DIG, MOVE_SLASH, MOVE_SAND_ATTACK, MOVE_POISON_STING
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_DIG, MOVE_SLASH, MOVE_SAND_ATTACK, MOVE_POISON_STING
     },
     {
 	.iv = 50,
 	.level = 28,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_DIG, MOVE_SLASH, MOVE_SAND_ATTACK, MOVE_POISON_STING
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_DIG, MOVE_SLASH, MOVE_SAND_ATTACK, MOVE_POISON_STING
     }
 };
 
@@ -611,14 +611,14 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Foster[] = {
     {
 	.iv = 50,
 	.level = 26,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_DIG, MOVE_SLASH, MOVE_SAND_ATTACK, MOVE_POISON_STING
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_DIG, MOVE_SLASH, MOVE_SAND_ATTACK, MOVE_POISON_STING
     },
     {
 	.iv = 50,
 	.level = 26,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_DIG, MOVE_SLASH, MOVE_SAND_ATTACK, MOVE_POISON_STING
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_DIG, MOVE_SLASH, MOVE_SAND_ATTACK, MOVE_POISON_STING
     }
 };
 
@@ -626,8 +626,8 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Dusty2[] = {
     {
 	.iv = 60,
 	.level = 27,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_DIG, MOVE_SLASH, MOVE_SAND_ATTACK, MOVE_POISON_STING
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_DIG, MOVE_SLASH, MOVE_SAND_ATTACK, MOVE_POISON_STING
     }
 };
 
@@ -635,8 +635,8 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Dusty3[] = {
     {
 	.iv = 70,
 	.level = 30,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_DIG, MOVE_SLASH, MOVE_SAND_ATTACK, MOVE_POISON_STING
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_DIG, MOVE_SLASH, MOVE_SAND_ATTACK, MOVE_POISON_STING
     }
 };
 
@@ -644,8 +644,8 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Dusty4[] = {
     {
 	.iv = 80,
 	.level = 32,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_DIG, MOVE_SLASH, MOVE_SAND_ATTACK, MOVE_POISON_STING
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_DIG, MOVE_SLASH, MOVE_SAND_ATTACK, MOVE_POISON_STING
     }
 };
 
@@ -653,8 +653,8 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Dusty5[] = {
     {
 	.iv = 90,
 	.level = 36,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_DIG, MOVE_SLASH, MOVE_SAND_ATTACK, MOVE_POISON_STING
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_DIG, MOVE_SLASH, MOVE_SAND_ATTACK, MOVE_POISON_STING
     }
 };
 
@@ -727,14 +727,14 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_GabbyAndTy6[] = {
     {
 	.iv = 250,
 	.level = 39,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_SONIC_BOOM, MOVE_THUNDER_WAVE, MOVE_METAL_SOUND, MOVE_THUNDERBOLT
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_SONIC_BOOM, MOVE_THUNDER_WAVE, MOVE_METAL_SOUND, MOVE_THUNDERBOLT
     },
     {
 	.iv = 250,
 	.level = 39,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_ASTONISH, MOVE_STOMP, MOVE_SUPERSONIC, MOVE_HYPER_VOICE
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_ASTONISH, MOVE_STOMP, MOVE_SUPERSONIC, MOVE_HYPER_VOICE
     }
 };
 
@@ -823,8 +823,8 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Ricky1[] = {
     {
 	.iv = 0,
 	.level = 14,
-	.species = SPECIES_MARILL
-        .moves = MOVE_SAND_ATTACK, MOVE_HEADBUTT, MOVE_TAIL_WHIP, MOVE_SURF
+	.species = SPECIES_MARILL,
+	.moves = MOVE_SAND_ATTACK, MOVE_HEADBUTT, MOVE_TAIL_WHIP, MOVE_SURF
     }
 };
 
@@ -853,8 +853,8 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Ricky2[] = {
     {
 	.iv = 10,
 	.level = 27,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_SAND_ATTACK, MOVE_PIN_MISSILE, MOVE_TAIL_WHIP, MOVE_SURF
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_SAND_ATTACK, MOVE_PIN_MISSILE, MOVE_TAIL_WHIP, MOVE_SURF
     }
 };
 
@@ -862,8 +862,8 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Ricky3[] = {
     {
 	.iv = 20,
 	.level = 30,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_SAND_ATTACK, MOVE_PIN_MISSILE, MOVE_TAIL_WHIP, MOVE_SURF
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_SAND_ATTACK, MOVE_PIN_MISSILE, MOVE_TAIL_WHIP, MOVE_SURF
     }
 };
 
@@ -871,8 +871,8 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Ricky4[] = {
     {
 	.iv = 30,
 	.level = 32,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_SAND_ATTACK, MOVE_PIN_MISSILE, MOVE_TAIL_WHIP, MOVE_SURF
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_SAND_ATTACK, MOVE_PIN_MISSILE, MOVE_TAIL_WHIP, MOVE_SURF
     }
 };
 
@@ -880,8 +880,8 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Ricky5[] = {
     {
 	.iv = 40,
 	.level = 36,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_SAND_ATTACK, MOVE_PIN_MISSILE, MOVE_TAIL_WHIP, MOVE_SURF
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_SAND_ATTACK, MOVE_PIN_MISSILE, MOVE_TAIL_WHIP, MOVE_SURF
     }
 };
 
@@ -921,32 +921,32 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Clyde[] = {
     {
 	.iv = 100,
 	.level = 29,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_FOCUS_ENERGY, MOVE_QUICK_ATTACK, MOVE_WING_ATTACK, MOVE_ENDEAVOR
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_FOCUS_ENERGY, MOVE_QUICK_ATTACK, MOVE_WING_ATTACK, MOVE_ENDEAVOR
     },
     {
 	.iv = 100,
 	.level = 29,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_BITE, MOVE_DIG, MOVE_FAINT_ATTACK, MOVE_SAND_TOMB
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_BITE, MOVE_DIG, MOVE_FAINT_ATTACK, MOVE_SAND_TOMB
     },
     {
 	.iv = 100,
 	.level = 29,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_ROLLOUT, MOVE_WHIRLPOOL, MOVE_ASTONISH, MOVE_WATER_PULSE
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_ROLLOUT, MOVE_WHIRLPOOL, MOVE_ASTONISH, MOVE_WATER_PULSE
     },
     {
 	.iv = 100,
 	.level = 29,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_THUNDERBOLT, MOVE_SUPERSONIC, MOVE_THUNDER_WAVE, MOVE_SONIC_BOOM
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_THUNDERBOLT, MOVE_SUPERSONIC, MOVE_THUNDER_WAVE, MOVE_SONIC_BOOM
     },
     {
 	.iv = 100,
 	.level = 29,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_GIGA_DRAIN, MOVE_FAINT_ATTACK, MOVE_DOUBLE_TEAM, MOVE_SWAGGER
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_GIGA_DRAIN, MOVE_FAINT_ATTACK, MOVE_DOUBLE_TEAM, MOVE_SWAGGER
     }
 };
 
@@ -1197,20 +1197,20 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Wendy[] = {
     {
 	.iv = 100,
 	.level = 31,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_BATON_PASS, MOVE_FAINT_ATTACK, MOVE_FAKE_TEARS, MOVE_BITE
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_BATON_PASS, MOVE_FAINT_ATTACK, MOVE_FAKE_TEARS, MOVE_BITE
     },
     {
 	.iv = 100,
 	.level = 31,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_MEGA_DRAIN, MOVE_MAGICAL_LEAF, MOVE_GRASS_WHISTLE, MOVE_LEECH_SEED
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_MEGA_DRAIN, MOVE_MAGICAL_LEAF, MOVE_GRASS_WHISTLE, MOVE_LEECH_SEED
     },
     {
 	.iv = 100,
 	.level = 31,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_FLY, MOVE_WATER_GUN, MOVE_MIST, MOVE_PROTECT
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_FLY, MOVE_WATER_GUN, MOVE_MIST, MOVE_PROTECT
     }
 };
 
@@ -1496,8 +1496,8 @@ const struct TrainerMonItemDefaultMoves gTrainerParty_Cindy1[] = {
     {
 	.iv = 0,
 	.level = 7,
-	.species = SPECIES_AZURILL
-        .heldItem = ITEM_NUGGET
+	.species = SPECIES_AZURILL,
+	.heldItem = ITEM_NUGGET
     }
 };
 
@@ -1513,14 +1513,14 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Brianna1[] = {
     {
 	.iv = 0,
 	.level = 10,
-	.species = SPECIES_MARILL
-        .moves = MOVE_CHARM, MOVE_ENCORE, MOVE_NONE, MOVE_NONE
+	.species = SPECIES_MARILL,
+	.moves = MOVE_CHARM, MOVE_ENCORE, MOVE_NONE, MOVE_NONE
     },
     {
 	.iv = 0,
 	.level = 10,
-	.species = SPECIES_MARILL
-        .moves = MOVE_QUICK_ATTACK, MOVE_GROWL, MOVE_NONE, MOVE_NONE
+	.species = SPECIES_MARILL,
+	.moves = MOVE_QUICK_ATTACK, MOVE_GROWL, MOVE_NONE, MOVE_NONE
     }
 };
 
@@ -1528,8 +1528,8 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Cindy2[] = {
     {
 	.iv = 0,
 	.level = 11,
-	.species = SPECIES_MARILL
-        .moves = MOVE_TACKLE, MOVE_TAIL_WHIP, MOVE_NONE, MOVE_NONE
+	.species = SPECIES_MARILL,
+	.moves = MOVE_TACKLE, MOVE_TAIL_WHIP, MOVE_NONE, MOVE_NONE
     }
 };
 
@@ -1537,8 +1537,8 @@ const struct TrainerMonItemDefaultMoves gTrainerParty_Brianna2[] = {
     {
 	.iv = 100,
 	.level = 41,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_NUGGET
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_NUGGET
     }
 };
 
@@ -1546,8 +1546,8 @@ const struct TrainerMonItemDefaultMoves gTrainerParty_Anette[] = {
     {
 	.iv = 100,
 	.level = 45,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_NUGGET
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_NUGGET
     }
 };
 
@@ -1555,8 +1555,8 @@ const struct TrainerMonItemDefaultMoves gTrainerParty_Cindy3[] = {
     {
 	.iv = 10,
 	.level = 27,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_NUGGET
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_NUGGET
     }
 };
 
@@ -1564,8 +1564,8 @@ const struct TrainerMonItemDefaultMoves gTrainerParty_Cindy4[] = {
     {
 	.iv = 20,
 	.level = 30,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_NUGGET
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_NUGGET
     }
 };
 
@@ -1573,8 +1573,8 @@ const struct TrainerMonItemDefaultMoves gTrainerParty_Cindy5[] = {
     {
 	.iv = 30,
 	.level = 32,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_NUGGET
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_NUGGET
     }
 };
 
@@ -1582,9 +1582,9 @@ const struct TrainerMonItemCustomMoves gTrainerParty_Cindy6[] = {
     {
 	.iv = 40,
 	.level = 36,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_NUGGET,
-        .moves = MOVE_FURY_SWIPES, MOVE_MUD_SPORT, MOVE_ODOR_SLEUTH, MOVE_SAND_ATTACK
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_NUGGET,
+	.moves = MOVE_FURY_SWIPES, MOVE_MUD_SPORT, MOVE_ODOR_SLEUTH, MOVE_SAND_ATTACK
     }
 };
 
@@ -1616,14 +1616,14 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Jessica1[] = {
     {
 	.iv = 0,
 	.level = 30,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_BIND, MOVE_LICK, MOVE_FURY_SWIPES, MOVE_FAINT_ATTACK
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_BIND, MOVE_LICK, MOVE_FURY_SWIPES, MOVE_FAINT_ATTACK
     },
     {
 	.iv = 0,
 	.level = 30,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_POISON_TAIL, MOVE_SCREECH, MOVE_GLARE, MOVE_CRUNCH
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_POISON_TAIL, MOVE_SCREECH, MOVE_GLARE, MOVE_CRUNCH
     }
 };
 
@@ -1652,8 +1652,8 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Olivia[] = {
     {
 	.iv = 100,
 	.level = 41,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_UPROAR, MOVE_FURY_SWIPES, MOVE_FAKE_OUT, MOVE_WATER_GUN
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_UPROAR, MOVE_FURY_SWIPES, MOVE_FAKE_OUT, MOVE_WATER_GUN
     }
 };
 
@@ -1679,14 +1679,14 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Jessica2[] = {
     {
 	.iv = 10,
 	.level = 32,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_BIND, MOVE_LICK, MOVE_FURY_SWIPES, MOVE_FAINT_ATTACK
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_BIND, MOVE_LICK, MOVE_FURY_SWIPES, MOVE_FAINT_ATTACK
     },
     {
 	.iv = 10,
 	.level = 32,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_POISON_TAIL, MOVE_SCREECH, MOVE_GLARE, MOVE_CRUNCH
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_POISON_TAIL, MOVE_SCREECH, MOVE_GLARE, MOVE_CRUNCH
     }
 };
 
@@ -1694,14 +1694,14 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Jessica3[] = {
     {
 	.iv = 20,
 	.level = 36,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_BIND, MOVE_LICK, MOVE_FURY_SWIPES, MOVE_FAINT_ATTACK
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_BIND, MOVE_LICK, MOVE_FURY_SWIPES, MOVE_FAINT_ATTACK
     },
     {
 	.iv = 20,
 	.level = 36,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_POISON_TAIL, MOVE_SCREECH, MOVE_GLARE, MOVE_CRUNCH
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_POISON_TAIL, MOVE_SCREECH, MOVE_GLARE, MOVE_CRUNCH
     }
 };
 
@@ -1709,14 +1709,14 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Jessica4[] = {
     {
 	.iv = 30,
 	.level = 39,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_BIND, MOVE_LICK, MOVE_FURY_SWIPES, MOVE_FAINT_ATTACK
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_BIND, MOVE_LICK, MOVE_FURY_SWIPES, MOVE_FAINT_ATTACK
     },
     {
 	.iv = 30,
 	.level = 39,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_POISON_TAIL, MOVE_SCREECH, MOVE_GLARE, MOVE_CRUNCH
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_POISON_TAIL, MOVE_SCREECH, MOVE_GLARE, MOVE_CRUNCH
     }
 };
 
@@ -1724,14 +1724,14 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Jessica5[] = {
     {
 	.iv = 40,
 	.level = 42,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_BIND, MOVE_LICK, MOVE_FURY_SWIPES, MOVE_FAINT_ATTACK
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_BIND, MOVE_LICK, MOVE_FURY_SWIPES, MOVE_FAINT_ATTACK
     },
     {
 	.iv = 40,
 	.level = 42,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_POISON_TAIL, MOVE_SCREECH, MOVE_GLARE, MOVE_CRUNCH
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_POISON_TAIL, MOVE_SCREECH, MOVE_GLARE, MOVE_CRUNCH
     }
 };
 
@@ -1739,8 +1739,8 @@ const struct TrainerMonItemDefaultMoves gTrainerParty_Winston1[] = {
     {
 	.iv = 0,
 	.level = 7,
-	.species = SPECIES_AZURILL
-        .heldItem = ITEM_NUGGET
+	.species = SPECIES_AZURILL,
+	.heldItem = ITEM_NUGGET
     }
 };
 
@@ -1756,8 +1756,8 @@ const struct TrainerMonItemDefaultMoves gTrainerParty_Garret[] = {
     {
 	.iv = 0,
 	.level = 45,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_NUGGET
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_NUGGET
     }
 };
 
@@ -1765,8 +1765,8 @@ const struct TrainerMonItemDefaultMoves gTrainerParty_Winston2[] = {
     {
 	.iv = 0,
 	.level = 27,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_NUGGET
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_NUGGET
     }
 };
 
@@ -1774,8 +1774,8 @@ const struct TrainerMonItemDefaultMoves gTrainerParty_Winston3[] = {
     {
 	.iv = 0,
 	.level = 30,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_NUGGET
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_NUGGET
     }
 };
 
@@ -1783,8 +1783,8 @@ const struct TrainerMonItemDefaultMoves gTrainerParty_Winston4[] = {
     {
 	.iv = 0,
 	.level = 32,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_NUGGET
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_NUGGET
     }
 };
 
@@ -1792,9 +1792,9 @@ const struct TrainerMonItemCustomMoves gTrainerParty_Winston5[] = {
     {
 	.iv = 0,
 	.level = 36,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_NUGGET,
-        .moves = MOVE_FURY_SWIPES, MOVE_MUD_SPORT, MOVE_ODOR_SLEUTH, MOVE_SAND_ATTACK
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_NUGGET,
+	.moves = MOVE_FURY_SWIPES, MOVE_MUD_SPORT, MOVE_ODOR_SLEUTH, MOVE_SAND_ATTACK
     }
 };
 
@@ -2304,26 +2304,26 @@ const struct TrainerMonItemDefaultMoves gTrainerParty_Nob5[] = {
     {
 	.iv = 140,
 	.level = 32,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_NONE
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_NONE
     },
     {
 	.iv = 140,
 	.level = 32,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_NONE
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_NONE
     },
     {
 	.iv = 140,
 	.level = 32,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_NONE
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_NONE
     },
     {
 	.iv = 140,
 	.level = 32,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_BLACK_BELT
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_BLACK_BELT
     }
 };
 
@@ -2655,8 +2655,8 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Drew[] = {
     {
 	.iv = 0,
 	.level = 24,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_DIG, MOVE_SAND_ATTACK, MOVE_POISON_STING, MOVE_SLASH
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_DIG, MOVE_SAND_ATTACK, MOVE_POISON_STING, MOVE_SLASH
     }
 };
 
@@ -2664,20 +2664,20 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Cliff[] = {
     {
 	.iv = 0,
 	.level = 22,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_RAPID_SPIN, MOVE_MUD_SLAP, MOVE_PSYBEAM, MOVE_ROCK_TOMB
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_RAPID_SPIN, MOVE_MUD_SLAP, MOVE_PSYBEAM, MOVE_ROCK_TOMB
     },
     {
 	.iv = 0,
 	.level = 22,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_POISON_STING, MOVE_SAND_ATTACK, MOVE_SCRATCH, MOVE_DIG
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_POISON_STING, MOVE_SAND_ATTACK, MOVE_SCRATCH, MOVE_DIG
     },
     {
 	.iv = 0,
 	.level = 22,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_RAPID_SPIN, MOVE_MUD_SLAP, MOVE_PSYBEAM, MOVE_ROCK_TOMB
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_RAPID_SPIN, MOVE_MUD_SLAP, MOVE_PSYBEAM, MOVE_ROCK_TOMB
     }
 };
 
@@ -2954,32 +2954,32 @@ const struct TrainerMonItemDefaultMoves gTrainerParty_Brandon5[] = {
     {
 	.iv = 40,
 	.level = 38,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_NONE
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_NONE
     },
     {
 	.iv = 40,
 	.level = 38,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_NONE
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_NONE
     },
     {
 	.iv = 40,
 	.level = 38,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_NONE
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_NONE
     },
     {
 	.iv = 40,
 	.level = 38,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_SILVER_POWDER
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_SILVER_POWDER
     },
     {
 	.iv = 40,
 	.level = 38,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_NONE
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_NONE
     }
 };
 
@@ -2987,8 +2987,8 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Edward[] = {
     {
 	.iv = 0,
 	.level = 16,
-	.species = SPECIES_MARILL
-        .moves = MOVE_HIDDEN_POWER, MOVE_NONE, MOVE_NONE, MOVE_NONE
+	.species = SPECIES_MARILL,
+	.moves = MOVE_HIDDEN_POWER, MOVE_NONE, MOVE_NONE, MOVE_NONE
     }
 };
 
@@ -3126,8 +3126,8 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Jaclyn[] = {
     {
 	.iv = 0,
 	.level = 16,
-	.species = SPECIES_MARILL
-        .moves = MOVE_HIDDEN_POWER, MOVE_NONE, MOVE_NONE, MOVE_NONE
+	.species = SPECIES_MARILL,
+	.moves = MOVE_HIDDEN_POWER, MOVE_NONE, MOVE_NONE, MOVE_NONE
     }
 };
 
@@ -3297,14 +3297,14 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Walter3[] = {
     {
 	.iv = 20,
 	.level = 36,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_HEADBUTT, MOVE_SAND_ATTACK, MOVE_ODOR_SLEUTH, MOVE_FURY_SWIPES
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_HEADBUTT, MOVE_SAND_ATTACK, MOVE_ODOR_SLEUTH, MOVE_FURY_SWIPES
     },
     {
 	.iv = 20,
 	.level = 36,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_QUICK_ATTACK, MOVE_SPARK, MOVE_ODOR_SLEUTH, MOVE_ROAR
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_QUICK_ATTACK, MOVE_SPARK, MOVE_ODOR_SLEUTH, MOVE_ROAR
     }
 };
 
@@ -3312,14 +3312,14 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Walter4[] = {
     {
 	.iv = 30,
 	.level = 39,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_HEADBUTT, MOVE_SAND_ATTACK, MOVE_ODOR_SLEUTH, MOVE_FURY_SWIPES
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_HEADBUTT, MOVE_SAND_ATTACK, MOVE_ODOR_SLEUTH, MOVE_FURY_SWIPES
     },
     {
 	.iv = 30,
 	.level = 39,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_QUICK_ATTACK, MOVE_SPARK, MOVE_ODOR_SLEUTH, MOVE_NONE
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_QUICK_ATTACK, MOVE_SPARK, MOVE_ODOR_SLEUTH, MOVE_NONE
     }
 };
 
@@ -3327,20 +3327,20 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Walter5[] = {
     {
 	.iv = 40,
 	.level = 41,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_HEADBUTT, MOVE_SAND_ATTACK, MOVE_ODOR_SLEUTH, MOVE_FURY_SWIPES
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_HEADBUTT, MOVE_SAND_ATTACK, MOVE_ODOR_SLEUTH, MOVE_FURY_SWIPES
     },
     {
 	.iv = 40,
 	.level = 41,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_FURY_SWIPES, MOVE_DISABLE, MOVE_CONFUSION, MOVE_PSYCH_UP
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_FURY_SWIPES, MOVE_DISABLE, MOVE_CONFUSION, MOVE_PSYCH_UP
     },
     {
 	.iv = 40,
 	.level = 41,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_QUICK_ATTACK, MOVE_SPARK, MOVE_ODOR_SLEUTH, MOVE_ROAR
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_QUICK_ATTACK, MOVE_SPARK, MOVE_ODOR_SLEUTH, MOVE_ROAR
     }
 };
 
@@ -3348,37 +3348,37 @@ const struct TrainerMonItemCustomMoves gTrainerParty_Sidney[] = {
     {
 	.iv = 250,
 	.level = 46,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_NONE,
-        .moves = MOVE_ROAR, MOVE_TAKE_DOWN, MOVE_SAND_ATTACK, MOVE_CRUNCH
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_NONE,
+	.moves = MOVE_ROAR, MOVE_TAKE_DOWN, MOVE_SAND_ATTACK, MOVE_CRUNCH
     },
     {
 	.iv = 250,
 	.level = 48,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_NONE,
-        .moves = MOVE_FAKE_OUT, MOVE_DOUBLE_TEAM, MOVE_SWAGGER, MOVE_EXTRASENSORY
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_NONE,
+	.moves = MOVE_FAKE_OUT, MOVE_DOUBLE_TEAM, MOVE_SWAGGER, MOVE_EXTRASENSORY
     },
     {
 	.iv = 250,
 	.level = 46,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_NONE,
-        .moves = MOVE_LEECH_SEED, MOVE_FAINT_ATTACK, MOVE_NEEDLE_ARM, MOVE_COTTON_SPORE
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_NONE,
+	.moves = MOVE_LEECH_SEED, MOVE_FAINT_ATTACK, MOVE_NEEDLE_ARM, MOVE_COTTON_SPORE
     },
     {
 	.iv = 250,
 	.level = 48,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_NONE,
-        .moves = MOVE_CRUNCH, MOVE_SWAGGER, MOVE_SURF, MOVE_SLASH
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_NONE,
+	.moves = MOVE_CRUNCH, MOVE_SWAGGER, MOVE_SURF, MOVE_SLASH
     },
     {
 	.iv = 255,
 	.level = 49,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_SITRUS_BERRY,
-        .moves = MOVE_AERIAL_ACE, MOVE_SNATCH, MOVE_SWORDS_DANCE, MOVE_SLASH
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_SITRUS_BERRY,
+	.moves = MOVE_AERIAL_ACE, MOVE_SNATCH, MOVE_SWORDS_DANCE, MOVE_SLASH
     }
 };
 
@@ -3386,37 +3386,37 @@ const struct TrainerMonItemCustomMoves gTrainerParty_Phoebe[] = {
     {
 	.iv = 250,
 	.level = 48,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_NONE,
-        .moves = MOVE_SHADOW_PUNCH, MOVE_CONFUSE_RAY, MOVE_CURSE, MOVE_FUTURE_SIGHT
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_NONE,
+	.moves = MOVE_SHADOW_PUNCH, MOVE_CONFUSE_RAY, MOVE_CURSE, MOVE_FUTURE_SIGHT
     },
     {
 	.iv = 250,
 	.level = 49,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_NONE,
-        .moves = MOVE_SHADOW_BALL, MOVE_SPITE, MOVE_WILL_O_WISP, MOVE_FAINT_ATTACK
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_NONE,
+	.moves = MOVE_SHADOW_BALL, MOVE_SPITE, MOVE_WILL_O_WISP, MOVE_FAINT_ATTACK
     },
     {
 	.iv = 250,
 	.level = 50,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_NONE,
-        .moves = MOVE_SHADOW_BALL, MOVE_PSYCHIC, MOVE_ATTRACT, MOVE_FAINT_ATTACK
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_NONE,
+	.moves = MOVE_SHADOW_BALL, MOVE_PSYCHIC, MOVE_ATTRACT, MOVE_FAINT_ATTACK
     },
     {
 	.iv = 250,
 	.level = 49,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_NONE,
-        .moves = MOVE_SHADOW_BALL, MOVE_PSYCHIC, MOVE_TOXIC, MOVE_SKILL_SWAP
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_NONE,
+	.moves = MOVE_SHADOW_BALL, MOVE_PSYCHIC, MOVE_TOXIC, MOVE_SKILL_SWAP
     },
     {
 	.iv = 255,
 	.level = 51,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_SITRUS_BERRY,
-        .moves = MOVE_SHADOW_BALL, MOVE_ICE_BEAM, MOVE_CONFUSE_RAY, MOVE_EARTHQUAKE
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_SITRUS_BERRY,
+	.moves = MOVE_SHADOW_BALL, MOVE_ICE_BEAM, MOVE_CONFUSE_RAY, MOVE_EARTHQUAKE
     }
 };
 
@@ -3424,37 +3424,37 @@ const struct TrainerMonItemCustomMoves gTrainerParty_Glacia[] = {
     {
 	.iv = 250,
 	.level = 50,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_NONE,
-        .moves = MOVE_LIGHT_SCREEN, MOVE_CRUNCH, MOVE_HAIL, MOVE_ICE_BEAM
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_NONE,
+	.moves = MOVE_LIGHT_SCREEN, MOVE_CRUNCH, MOVE_HAIL, MOVE_ICE_BEAM
     },
     {
 	.iv = 250,
 	.level = 50,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_NONE,
-        .moves = MOVE_SURF, MOVE_BODY_SLAM, MOVE_HAIL, MOVE_ICE_BALL
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_NONE,
+	.moves = MOVE_SURF, MOVE_BODY_SLAM, MOVE_HAIL, MOVE_ICE_BALL
     },
     {
 	.iv = 250,
 	.level = 52,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_NONE,
-        .moves = MOVE_ATTRACT, MOVE_DIVE, MOVE_HAIL, MOVE_BLIZZARD
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_NONE,
+	.moves = MOVE_ATTRACT, MOVE_DIVE, MOVE_HAIL, MOVE_BLIZZARD
     },
     {
 	.iv = 250,
 	.level = 52,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_NONE,
-        .moves = MOVE_SHADOW_BALL, MOVE_CRUNCH, MOVE_HAIL, MOVE_ICE_BEAM
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_NONE,
+	.moves = MOVE_SHADOW_BALL, MOVE_CRUNCH, MOVE_HAIL, MOVE_ICE_BEAM
     },
     {
 	.iv = 255,
 	.level = 53,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_SITRUS_BERRY,
-        .moves = MOVE_SURF, MOVE_BODY_SLAM, MOVE_BLIZZARD, MOVE_SHEER_COLD
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_SITRUS_BERRY,
+	.moves = MOVE_SURF, MOVE_BODY_SLAM, MOVE_BLIZZARD, MOVE_SHEER_COLD
     }
 };
 
@@ -3462,37 +3462,37 @@ const struct TrainerMonItemCustomMoves gTrainerParty_Drake[] = {
     {
 	.iv = 250,
 	.level = 52,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_NONE,
-        .moves = MOVE_ROCK_TOMB, MOVE_DRAGON_CLAW, MOVE_PROTECT, MOVE_CRUNCH
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_NONE,
+	.moves = MOVE_ROCK_TOMB, MOVE_DRAGON_CLAW, MOVE_PROTECT, MOVE_CRUNCH
     },
     {
 	.iv = 250,
 	.level = 54,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_NONE,
-        .moves = MOVE_TAKE_DOWN, MOVE_DRAGON_BREATH, MOVE_DRAGON_DANCE, MOVE_REFRESH
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_NONE,
+	.moves = MOVE_TAKE_DOWN, MOVE_DRAGON_BREATH, MOVE_DRAGON_DANCE, MOVE_REFRESH
     },
     {
 	.iv = 250,
 	.level = 53,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_NONE,
-        .moves = MOVE_DIG, MOVE_DRAGON_BREATH, MOVE_FLY, MOVE_SANDSTORM
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_NONE,
+	.moves = MOVE_DIG, MOVE_DRAGON_BREATH, MOVE_FLY, MOVE_SANDSTORM
     },
     {
 	.iv = 250,
 	.level = 53,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_NONE,
-        .moves = MOVE_FLAMETHROWER, MOVE_CRUNCH, MOVE_DRAGON_BREATH, MOVE_SAND_ATTACK
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_NONE,
+	.moves = MOVE_FLAMETHROWER, MOVE_CRUNCH, MOVE_DRAGON_BREATH, MOVE_SAND_ATTACK
     },
     {
 	.iv = 255,
 	.level = 55,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_SITRUS_BERRY,
-        .moves = MOVE_FLAMETHROWER, MOVE_DRAGON_CLAW, MOVE_FLY, MOVE_CRUNCH
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_SITRUS_BERRY,
+	.moves = MOVE_FLAMETHROWER, MOVE_DRAGON_CLAW, MOVE_FLY, MOVE_CRUNCH
     }
 };
 
@@ -3500,14 +3500,14 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Roxanne[] = {
     {
 	.iv = 150,
 	.level = 14,
-	.species = SPECIES_MARILL
-        .moves = MOVE_TACKLE, MOVE_DEFENSE_CURL, MOVE_ROCK_THROW, MOVE_ROCK_TOMB
+	.species = SPECIES_MARILL,
+	.moves = MOVE_TACKLE, MOVE_DEFENSE_CURL, MOVE_ROCK_THROW, MOVE_ROCK_TOMB
     },
     {
 	.iv = 200,
 	.level = 15,
-	.species = SPECIES_MARILL
-        .moves = MOVE_TACKLE, MOVE_HARDEN, MOVE_ROCK_THROW, MOVE_ROCK_TOMB
+	.species = SPECIES_MARILL,
+	.moves = MOVE_TACKLE, MOVE_HARDEN, MOVE_ROCK_THROW, MOVE_ROCK_TOMB
     }
 };
 
@@ -3515,14 +3515,14 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Brawly[] = {
     {
 	.iv = 150,
 	.level = 17,
-	.species = SPECIES_MARILL
-        .moves = MOVE_LEER, MOVE_KARATE_CHOP, MOVE_SEISMIC_TOSS, MOVE_BULK_UP
+	.species = SPECIES_MARILL,
+	.moves = MOVE_LEER, MOVE_KARATE_CHOP, MOVE_SEISMIC_TOSS, MOVE_BULK_UP
     },
     {
 	.iv = 200,
 	.level = 18,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_ARM_THRUST, MOVE_KNOCK_OFF, MOVE_SAND_ATTACK, MOVE_BULK_UP
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_ARM_THRUST, MOVE_KNOCK_OFF, MOVE_SAND_ATTACK, MOVE_BULK_UP
     }
 };
 
@@ -3530,20 +3530,20 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Wattson[] = {
     {
 	.iv = 200,
 	.level = 22,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_SUPERSONIC, MOVE_SONIC_BOOM, MOVE_THUNDER_SHOCK, MOVE_THUNDER_WAVE
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_SUPERSONIC, MOVE_SONIC_BOOM, MOVE_THUNDER_SHOCK, MOVE_THUNDER_WAVE
     },
     {
 	.iv = 200,
 	.level = 20,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_ROLLOUT, MOVE_SELF_DESTRUCT, MOVE_SPARK, MOVE_SONIC_BOOM
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_ROLLOUT, MOVE_SELF_DESTRUCT, MOVE_SPARK, MOVE_SONIC_BOOM
     },
     {
 	.iv = 250,
 	.level = 23,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_SUPERSONIC, MOVE_SONIC_BOOM, MOVE_SHOCK_WAVE, MOVE_THUNDER_WAVE
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_SUPERSONIC, MOVE_SONIC_BOOM, MOVE_SHOCK_WAVE, MOVE_THUNDER_WAVE
     }
 };
 
@@ -3551,20 +3551,20 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Flannery[] = {
     {
 	.iv = 200,
 	.level = 26,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_OVERHEAT, MOVE_SMOG, MOVE_LIGHT_SCREEN, MOVE_SUNNY_DAY
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_OVERHEAT, MOVE_SMOG, MOVE_LIGHT_SCREEN, MOVE_SUNNY_DAY
     },
     {
 	.iv = 200,
 	.level = 26,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_FLAMETHROWER, MOVE_ROCK_SLIDE, MOVE_LIGHT_SCREEN, MOVE_SUNNY_DAY
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_FLAMETHROWER, MOVE_ROCK_SLIDE, MOVE_LIGHT_SCREEN, MOVE_SUNNY_DAY
     },
     {
 	.iv = 250,
 	.level = 28,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_OVERHEAT, MOVE_BODY_SLAM, MOVE_FLAIL, MOVE_ATTRACT
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_OVERHEAT, MOVE_BODY_SLAM, MOVE_FLAIL, MOVE_ATTRACT
     }
 };
 
@@ -3572,20 +3572,20 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Norman[] = {
     {
 	.iv = 200,
 	.level = 28,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_ENCORE, MOVE_FACADE, MOVE_YAWN, MOVE_FAINT_ATTACK
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_ENCORE, MOVE_FACADE, MOVE_YAWN, MOVE_FAINT_ATTACK
     },
     {
 	.iv = 200,
 	.level = 30,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_SLASH, MOVE_FAINT_ATTACK, MOVE_FACADE, MOVE_ENCORE
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_SLASH, MOVE_FAINT_ATTACK, MOVE_FACADE, MOVE_ENCORE
     },
     {
 	.iv = 250,
 	.level = 31,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_FOCUS_PUNCH, MOVE_SLACK_OFF, MOVE_FACADE, MOVE_FAINT_ATTACK
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_FOCUS_PUNCH, MOVE_SLACK_OFF, MOVE_FACADE, MOVE_FAINT_ATTACK
     }
 };
 
@@ -3593,26 +3593,26 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Winona[] = {
     {
 	.iv = 200,
 	.level = 31,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_QUICK_ATTACK, MOVE_AERIAL_ACE, MOVE_DOUBLE_TEAM, MOVE_ENDEAVOR
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_QUICK_ATTACK, MOVE_AERIAL_ACE, MOVE_DOUBLE_TEAM, MOVE_ENDEAVOR
     },
     {
 	.iv = 200,
 	.level = 30,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_WATER_GUN, MOVE_SUPERSONIC, MOVE_PROTECT, MOVE_AERIAL_ACE
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_WATER_GUN, MOVE_SUPERSONIC, MOVE_PROTECT, MOVE_AERIAL_ACE
     },
     {
 	.iv = 200,
 	.level = 32,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_SAND_ATTACK, MOVE_FURY_ATTACK, MOVE_STEEL_WING, MOVE_AERIAL_ACE
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_SAND_ATTACK, MOVE_FURY_ATTACK, MOVE_STEEL_WING, MOVE_AERIAL_ACE
     },
     {
 	.iv = 250,
 	.level = 32,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_EARTHQUAKE, MOVE_DRAGON_BREATH, MOVE_DRAGON_DANCE, MOVE_AERIAL_ACE
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_EARTHQUAKE, MOVE_DRAGON_BREATH, MOVE_DRAGON_DANCE, MOVE_AERIAL_ACE
     }
 };
 
@@ -3620,16 +3620,16 @@ const struct TrainerMonItemCustomMoves gTrainerParty_TateAndLiza[] = {
     {
 	.iv = 250,
 	.level = 42,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_NONE,
-        .moves = MOVE_LIGHT_SCREEN, MOVE_PSYCHIC, MOVE_HYPNOSIS, MOVE_CALM_MIND
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_NONE,
+	.moves = MOVE_LIGHT_SCREEN, MOVE_PSYCHIC, MOVE_HYPNOSIS, MOVE_CALM_MIND
     },
     {
 	.iv = 250,
 	.level = 42,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_NONE,
-        .moves = MOVE_SUNNY_DAY, MOVE_SOLAR_BEAM, MOVE_PSYCHIC, MOVE_FLAMETHROWER
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_NONE,
+	.moves = MOVE_SUNNY_DAY, MOVE_SOLAR_BEAM, MOVE_PSYCHIC, MOVE_FLAMETHROWER
     }
 };
 
@@ -3637,32 +3637,32 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Wallace[] = {
     {
 	.iv = 200,
 	.level = 40,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_WATER_PULSE, MOVE_ATTRACT, MOVE_SWEET_KISS, MOVE_FLAIL
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_WATER_PULSE, MOVE_ATTRACT, MOVE_SWEET_KISS, MOVE_FLAIL
     },
     {
 	.iv = 200,
 	.level = 42,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_RAIN_DANCE, MOVE_WATER_PULSE, MOVE_AMNESIA, MOVE_EARTHQUAKE
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_RAIN_DANCE, MOVE_WATER_PULSE, MOVE_AMNESIA, MOVE_EARTHQUAKE
     },
     {
 	.iv = 200,
 	.level = 40,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_ENCORE, MOVE_BODY_SLAM, MOVE_AURORA_BEAM, MOVE_WATER_PULSE
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_ENCORE, MOVE_BODY_SLAM, MOVE_AURORA_BEAM, MOVE_WATER_PULSE
     },
     {
 	.iv = 200,
 	.level = 42,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_WATER_PULSE, MOVE_RAIN_DANCE, MOVE_FURY_ATTACK, MOVE_HORN_DRILL
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_WATER_PULSE, MOVE_RAIN_DANCE, MOVE_FURY_ATTACK, MOVE_HORN_DRILL
     },
     {
 	.iv = 250,
 	.level = 43,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_WATER_PULSE, MOVE_TWISTER, MOVE_RECOVER, MOVE_ICE_BEAM
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_WATER_PULSE, MOVE_TWISTER, MOVE_RECOVER, MOVE_ICE_BEAM
     }
 };
 
@@ -3839,14 +3839,14 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_KateAndJoy[] = {
     {
 	.iv = 0,
 	.level = 30,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_HYPNOSIS, MOVE_PSYBEAM, MOVE_DIZZY_PUNCH, MOVE_TEETER_DANCE
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_HYPNOSIS, MOVE_PSYBEAM, MOVE_DIZZY_PUNCH, MOVE_TEETER_DANCE
     },
     {
 	.iv = 0,
 	.level = 32,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_FOCUS_PUNCH, MOVE_YAWN, MOVE_SLACK_OFF, MOVE_FAINT_ATTACK
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_FOCUS_PUNCH, MOVE_YAWN, MOVE_SLACK_OFF, MOVE_FAINT_ATTACK
     }
 };
 
@@ -3854,14 +3854,14 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_AnnaAndMeg1[] = {
     {
 	.iv = 0,
 	.level = 16,
-	.species = SPECIES_MARILL
-        .moves = MOVE_GROWL, MOVE_TAIL_WHIP, MOVE_HEADBUTT, MOVE_ODOR_SLEUTH
+	.species = SPECIES_MARILL,
+	.moves = MOVE_GROWL, MOVE_TAIL_WHIP, MOVE_HEADBUTT, MOVE_ODOR_SLEUTH
     },
     {
 	.iv = 0,
 	.level = 18,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_TACKLE, MOVE_FOCUS_ENERGY, MOVE_ARM_THRUST, MOVE_NONE
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_TACKLE, MOVE_FOCUS_ENERGY, MOVE_ARM_THRUST, MOVE_NONE
     }
 };
 
@@ -3869,14 +3869,14 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_AnnaAndMeg2[] = {
     {
 	.iv = 10,
 	.level = 26,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_GROWL, MOVE_TAIL_WHIP, MOVE_HEADBUTT, MOVE_ODOR_SLEUTH
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_GROWL, MOVE_TAIL_WHIP, MOVE_HEADBUTT, MOVE_ODOR_SLEUTH
     },
     {
 	.iv = 10,
 	.level = 28,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_TACKLE, MOVE_FOCUS_ENERGY, MOVE_ARM_THRUST, MOVE_NONE
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_TACKLE, MOVE_FOCUS_ENERGY, MOVE_ARM_THRUST, MOVE_NONE
     }
 };
 
@@ -3884,14 +3884,14 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_AnnaAndMeg3[] = {
     {
 	.iv = 20,
 	.level = 29,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_GROWL, MOVE_TAIL_WHIP, MOVE_HEADBUTT, MOVE_ODOR_SLEUTH
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_GROWL, MOVE_TAIL_WHIP, MOVE_HEADBUTT, MOVE_ODOR_SLEUTH
     },
     {
 	.iv = 20,
 	.level = 31,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_TACKLE, MOVE_FOCUS_ENERGY, MOVE_ARM_THRUST, MOVE_NONE
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_TACKLE, MOVE_FOCUS_ENERGY, MOVE_ARM_THRUST, MOVE_NONE
     }
 };
 
@@ -3899,14 +3899,14 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_AnnaAndMeg4[] = {
     {
 	.iv = 30,
 	.level = 32,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_GROWL, MOVE_TAIL_WHIP, MOVE_HEADBUTT, MOVE_ODOR_SLEUTH
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_GROWL, MOVE_TAIL_WHIP, MOVE_HEADBUTT, MOVE_ODOR_SLEUTH
     },
     {
 	.iv = 30,
 	.level = 34,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_TACKLE, MOVE_FOCUS_ENERGY, MOVE_ARM_THRUST, MOVE_NONE
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_TACKLE, MOVE_FOCUS_ENERGY, MOVE_ARM_THRUST, MOVE_NONE
     }
 };
 
@@ -3914,14 +3914,14 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_AnnaAndMeg5[] = {
     {
 	.iv = 40,
 	.level = 35,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_GROWL, MOVE_TAIL_WHIP, MOVE_HEADBUTT, MOVE_ODOR_SLEUTH
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_GROWL, MOVE_TAIL_WHIP, MOVE_HEADBUTT, MOVE_ODOR_SLEUTH
     },
     {
 	.iv = 40,
 	.level = 37,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_TACKLE, MOVE_FOCUS_ENERGY, MOVE_ARM_THRUST, MOVE_NONE
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_TACKLE, MOVE_FOCUS_ENERGY, MOVE_ARM_THRUST, MOVE_NONE
     }
 };
 
@@ -3929,14 +3929,14 @@ const struct TrainerMonItemDefaultMoves gTrainerParty_Victor[] = {
     {
 	.iv = 25,
 	.level = 16,
-	.species = SPECIES_MARILL
-        .heldItem = ITEM_ORAN_BERRY
+	.species = SPECIES_MARILL,
+	.heldItem = ITEM_ORAN_BERRY
     },
     {
 	.iv = 25,
 	.level = 16,
-	.species = SPECIES_MARILL
-        .heldItem = ITEM_ORAN_BERRY
+	.species = SPECIES_MARILL,
+	.heldItem = ITEM_ORAN_BERRY
     }
 };
 
@@ -3944,8 +3944,8 @@ const struct TrainerMonItemDefaultMoves gTrainerParty_Miguel1[] = {
     {
 	.iv = 0,
 	.level = 16,
-	.species = SPECIES_MARILL
-        .heldItem = ITEM_ORAN_BERRY
+	.species = SPECIES_MARILL,
+	.heldItem = ITEM_ORAN_BERRY
     }
 };
 
@@ -3953,44 +3953,44 @@ const struct TrainerMonItemCustomMoves gTrainerParty_Colton[] = {
     {
 	.iv = 0,
 	.level = 22,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_ORAN_BERRY,
-        .moves = MOVE_ASSIST, MOVE_CHARM, MOVE_FAINT_ATTACK, MOVE_HEAL_BELL
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_ORAN_BERRY,
+	.moves = MOVE_ASSIST, MOVE_CHARM, MOVE_FAINT_ATTACK, MOVE_HEAL_BELL
     },
     {
 	.iv = 0,
 	.level = 36,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_ORAN_BERRY,
-        .moves = MOVE_ASSIST, MOVE_CHARM, MOVE_FAINT_ATTACK, MOVE_HEAL_BELL
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_ORAN_BERRY,
+	.moves = MOVE_ASSIST, MOVE_CHARM, MOVE_FAINT_ATTACK, MOVE_HEAL_BELL
     },
     {
 	.iv = 0,
 	.level = 40,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_ORAN_BERRY,
-        .moves = MOVE_ASSIST, MOVE_CHARM, MOVE_FAINT_ATTACK, MOVE_HEAL_BELL
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_ORAN_BERRY,
+	.moves = MOVE_ASSIST, MOVE_CHARM, MOVE_FAINT_ATTACK, MOVE_HEAL_BELL
     },
     {
 	.iv = 0,
 	.level = 12,
-	.species = SPECIES_MARILL
-        .heldItem = ITEM_ORAN_BERRY,
-        .moves = MOVE_ASSIST, MOVE_CHARM, MOVE_FAINT_ATTACK, MOVE_HEAL_BELL
+	.species = SPECIES_MARILL,
+	.heldItem = ITEM_ORAN_BERRY,
+	.moves = MOVE_ASSIST, MOVE_CHARM, MOVE_FAINT_ATTACK, MOVE_HEAL_BELL
     },
     {
 	.iv = 0,
 	.level = 30,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_ORAN_BERRY,
-        .moves = MOVE_ASSIST, MOVE_CHARM, MOVE_FAINT_ATTACK, MOVE_HEAL_BELL
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_ORAN_BERRY,
+	.moves = MOVE_ASSIST, MOVE_CHARM, MOVE_FAINT_ATTACK, MOVE_HEAL_BELL
     },
     {
 	.iv = 0,
 	.level = 42,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_ORAN_BERRY,
-        .moves = MOVE_ASSIST, MOVE_CHARM, MOVE_FAINT_ATTACK, MOVE_HEAL_BELL
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_ORAN_BERRY,
+	.moves = MOVE_ASSIST, MOVE_CHARM, MOVE_FAINT_ATTACK, MOVE_HEAL_BELL
     }
 };
 
@@ -3998,8 +3998,8 @@ const struct TrainerMonItemDefaultMoves gTrainerParty_Miguel2[] = {
     {
 	.iv = 0,
 	.level = 27,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_ORAN_BERRY
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_ORAN_BERRY
     }
 };
 
@@ -4007,8 +4007,8 @@ const struct TrainerMonItemDefaultMoves gTrainerParty_Miguel3[] = {
     {
 	.iv = 0,
 	.level = 30,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_ORAN_BERRY
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_ORAN_BERRY
     }
 };
 
@@ -4016,8 +4016,8 @@ const struct TrainerMonItemDefaultMoves gTrainerParty_Miguel4[] = {
     {
 	.iv = 0,
 	.level = 32,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_ORAN_BERRY
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_ORAN_BERRY
     }
 };
 
@@ -4025,8 +4025,8 @@ const struct TrainerMonItemDefaultMoves gTrainerParty_Miguel5[] = {
     {
 	.iv = 0,
 	.level = 36,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_SITRUS_BERRY
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_SITRUS_BERRY
     }
 };
 
@@ -4034,8 +4034,8 @@ const struct TrainerMonItemDefaultMoves gTrainerParty_Victoria[] = {
     {
 	.iv = 50,
 	.level = 17,
-	.species = SPECIES_MARILL
-        .heldItem = ITEM_ORAN_BERRY
+	.species = SPECIES_MARILL,
+	.heldItem = ITEM_ORAN_BERRY
     }
 };
 
@@ -4043,8 +4043,8 @@ const struct TrainerMonItemDefaultMoves gTrainerParty_Vanessa[] = {
     {
 	.iv = 0,
 	.level = 31,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_ORAN_BERRY
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_ORAN_BERRY
     }
 };
 
@@ -4052,20 +4052,20 @@ const struct TrainerMonItemDefaultMoves gTrainerParty_Marissa[] = {
     {
 	.iv = 100,
 	.level = 36,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_ORAN_BERRY
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_ORAN_BERRY
     },
     {
 	.iv = 100,
 	.level = 38,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_ORAN_BERRY
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_ORAN_BERRY
     },
     {
 	.iv = 100,
 	.level = 40,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_ORAN_BERRY
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_ORAN_BERRY
     }
 };
 
@@ -4073,14 +4073,14 @@ const struct TrainerMonItemDefaultMoves gTrainerParty_Isabel1[] = {
     {
 	.iv = 0,
 	.level = 15,
-	.species = SPECIES_MARILL
-        .heldItem = ITEM_ORAN_BERRY
+	.species = SPECIES_MARILL,
+	.heldItem = ITEM_ORAN_BERRY
     },
     {
 	.iv = 0,
 	.level = 15,
-	.species = SPECIES_MARILL
-        .heldItem = ITEM_ORAN_BERRY
+	.species = SPECIES_MARILL,
+	.heldItem = ITEM_ORAN_BERRY
     }
 };
 
@@ -4088,14 +4088,14 @@ const struct TrainerMonItemDefaultMoves gTrainerParty_Isabel2[] = {
     {
 	.iv = 10,
 	.level = 26,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_ORAN_BERRY
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_ORAN_BERRY
     },
     {
 	.iv = 10,
 	.level = 26,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_ORAN_BERRY
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_ORAN_BERRY
     }
 };
 
@@ -4103,14 +4103,14 @@ const struct TrainerMonItemDefaultMoves gTrainerParty_Isabel3[] = {
     {
 	.iv = 20,
 	.level = 29,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_ORAN_BERRY
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_ORAN_BERRY
     },
     {
 	.iv = 20,
 	.level = 29,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_ORAN_BERRY
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_ORAN_BERRY
     }
 };
 
@@ -4118,14 +4118,14 @@ const struct TrainerMonItemDefaultMoves gTrainerParty_Isabel4[] = {
     {
 	.iv = 30,
 	.level = 32,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_ORAN_BERRY
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_ORAN_BERRY
     },
     {
 	.iv = 30,
 	.level = 32,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_ORAN_BERRY
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_ORAN_BERRY
     }
 };
 
@@ -4133,14 +4133,14 @@ const struct TrainerMonItemDefaultMoves gTrainerParty_Isabel5[] = {
     {
 	.iv = 40,
 	.level = 35,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_SITRUS_BERRY
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_SITRUS_BERRY
     },
     {
 	.iv = 40,
 	.level = 35,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_SITRUS_BERRY
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_SITRUS_BERRY
     }
 };
 
@@ -4156,8 +4156,8 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Timothy2[] = {
     {
 	.iv = 210,
 	.level = 31,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_ARM_THRUST, MOVE_KNOCK_OFF, MOVE_SAND_ATTACK, MOVE_DIG
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_ARM_THRUST, MOVE_KNOCK_OFF, MOVE_SAND_ATTACK, MOVE_DIG
     }
 };
 
@@ -4165,8 +4165,8 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Timothy3[] = {
     {
 	.iv = 220,
 	.level = 34,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_ARM_THRUST, MOVE_KNOCK_OFF, MOVE_SAND_ATTACK, MOVE_DIG
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_ARM_THRUST, MOVE_KNOCK_OFF, MOVE_SAND_ATTACK, MOVE_DIG
     }
 };
 
@@ -4174,8 +4174,8 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Timothy4[] = {
     {
 	.iv = 230,
 	.level = 37,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_ARM_THRUST, MOVE_BELLY_DRUM, MOVE_SAND_ATTACK, MOVE_DIG
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_ARM_THRUST, MOVE_BELLY_DRUM, MOVE_SAND_ATTACK, MOVE_DIG
     }
 };
 
@@ -4183,8 +4183,8 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Timothy5[] = {
     {
 	.iv = 240,
 	.level = 40,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_ARM_THRUST, MOVE_BELLY_DRUM, MOVE_SAND_ATTACK, MOVE_DIG
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_ARM_THRUST, MOVE_BELLY_DRUM, MOVE_SAND_ATTACK, MOVE_DIG
     }
 };
 
@@ -4192,8 +4192,8 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Vicky[] = {
     {
 	.iv = 200,
 	.level = 18,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_HI_JUMP_KICK, MOVE_MEDITATE, MOVE_CONFUSION, MOVE_DETECT
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_HI_JUMP_KICK, MOVE_MEDITATE, MOVE_CONFUSION, MOVE_DETECT
     }
 };
 
@@ -4287,20 +4287,20 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Josh[] = {
     {
 	.iv = 100,
 	.level = 10,
-	.species = SPECIES_MARILL
-        .moves = MOVE_TACKLE, MOVE_NONE, MOVE_NONE, MOVE_NONE
+	.species = SPECIES_MARILL,
+	.moves = MOVE_TACKLE, MOVE_NONE, MOVE_NONE, MOVE_NONE
     },
     {
 	.iv = 100,
 	.level = 8,
-	.species = SPECIES_AZURILL
-        .moves = MOVE_TACKLE, MOVE_NONE, MOVE_NONE, MOVE_NONE
+	.species = SPECIES_AZURILL,
+	.moves = MOVE_TACKLE, MOVE_NONE, MOVE_NONE, MOVE_NONE
     },
     {
 	.iv = 100,
 	.level = 6,
-	.species = SPECIES_AZURILL
-        .moves = MOVE_TACKLE, MOVE_NONE, MOVE_NONE, MOVE_NONE
+	.species = SPECIES_AZURILL,
+	.moves = MOVE_TACKLE, MOVE_NONE, MOVE_NONE, MOVE_NONE
     }
 };
 
@@ -4329,8 +4329,8 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Ben[] = {
     {
 	.iv = 100,
 	.level = 19,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_HEADBUTT, MOVE_SAND_ATTACK, MOVE_GROWL, MOVE_THUNDERBOLT
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_HEADBUTT, MOVE_SAND_ATTACK, MOVE_GROWL, MOVE_THUNDERBOLT
     }
 };
 
@@ -4481,44 +4481,44 @@ const struct TrainerMonItemCustomMoves gTrainerParty_Steven[] = {
     {
 	.iv = 255,
 	.level = 57,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_NONE,
-        .moves = MOVE_TOXIC, MOVE_AERIAL_ACE, MOVE_SPIKES, MOVE_STEEL_WING
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_NONE,
+	.moves = MOVE_TOXIC, MOVE_AERIAL_ACE, MOVE_SPIKES, MOVE_STEEL_WING
     },
     {
 	.iv = 255,
 	.level = 55,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_NONE,
-        .moves = MOVE_REFLECT, MOVE_LIGHT_SCREEN, MOVE_ANCIENT_POWER, MOVE_EARTHQUAKE
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_NONE,
+	.moves = MOVE_REFLECT, MOVE_LIGHT_SCREEN, MOVE_ANCIENT_POWER, MOVE_EARTHQUAKE
     },
     {
 	.iv = 255,
 	.level = 56,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_NONE,
-        .moves = MOVE_THUNDER, MOVE_EARTHQUAKE, MOVE_SOLAR_BEAM, MOVE_DRAGON_CLAW
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_NONE,
+	.moves = MOVE_THUNDER, MOVE_EARTHQUAKE, MOVE_SOLAR_BEAM, MOVE_DRAGON_CLAW
     },
     {
 	.iv = 255,
 	.level = 56,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_NONE,
-        .moves = MOVE_GIGA_DRAIN, MOVE_ANCIENT_POWER, MOVE_SLUDGE_BOMB, MOVE_CONFUSE_RAY
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_NONE,
+	.moves = MOVE_GIGA_DRAIN, MOVE_ANCIENT_POWER, MOVE_SLUDGE_BOMB, MOVE_CONFUSE_RAY
     },
     {
 	.iv = 255,
 	.level = 56,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_NONE,
-        .moves = MOVE_WATER_PULSE, MOVE_ANCIENT_POWER, MOVE_AERIAL_ACE, MOVE_SLASH
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_NONE,
+	.moves = MOVE_WATER_PULSE, MOVE_ANCIENT_POWER, MOVE_AERIAL_ACE, MOVE_SLASH
     },
     {
 	.iv = 255,
 	.level = 58,
 	.species = SPECIES_AZUMARILL,
-        .heldItem = ITEM_SITRUS_BERRY,
-        .moves = MOVE_EARTHQUAKE, MOVE_PSYCHIC, MOVE_METEOR_MASH, MOVE_HYPER_BEAM
+	.heldItem = ITEM_SITRUS_BERRY,
+	.moves = MOVE_EARTHQUAKE, MOVE_PSYCHIC, MOVE_METEOR_MASH, MOVE_HYPER_BEAM
     }
 };
 
@@ -5276,20 +5276,20 @@ const struct TrainerMonItemDefaultMoves gTrainerParty_Nicolas5[] = {
     {
 	.iv = 140,
 	.level = 49,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_NONE
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_NONE
     },
     {
 	.iv = 140,
 	.level = 49,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_NONE
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_NONE
     },
     {
 	.iv = 140,
 	.level = 49,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_DRAGON_FANG
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_DRAGON_FANG
     }
 };
 
@@ -5603,26 +5603,26 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Lao1[] = {
     {
 	.iv = 0,
 	.level = 17,
-	.species = SPECIES_MARILL
-        .moves = MOVE_POISON_GAS, MOVE_TACKLE, MOVE_SMOG, MOVE_SELF_DESTRUCT
+	.species = SPECIES_MARILL,
+	.moves = MOVE_POISON_GAS, MOVE_TACKLE, MOVE_SMOG, MOVE_SELF_DESTRUCT
     },
     {
 	.iv = 0,
 	.level = 17,
-	.species = SPECIES_MARILL
-        .moves = MOVE_POISON_GAS, MOVE_TACKLE, MOVE_SMOG, MOVE_NONE
+	.species = SPECIES_MARILL,
+	.moves = MOVE_POISON_GAS, MOVE_TACKLE, MOVE_SMOG, MOVE_NONE
     },
     {
 	.iv = 0,
 	.level = 17,
-	.species = SPECIES_MARILL
-        .moves = MOVE_POISON_GAS, MOVE_TACKLE, MOVE_SMOG, MOVE_SELF_DESTRUCT
+	.species = SPECIES_MARILL,
+	.moves = MOVE_POISON_GAS, MOVE_TACKLE, MOVE_SMOG, MOVE_SELF_DESTRUCT
     },
     {
 	.iv = 0,
 	.level = 19,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_TACKLE, MOVE_SMOG, MOVE_NONE, MOVE_NONE
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_TACKLE, MOVE_SMOG, MOVE_NONE, MOVE_NONE
     }
 };
 
@@ -5643,26 +5643,26 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Lao2[] = {
     {
 	.iv = 0,
 	.level = 24,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_POISON_GAS, MOVE_TACKLE, MOVE_SLUDGE, MOVE_SELF_DESTRUCT
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_POISON_GAS, MOVE_TACKLE, MOVE_SLUDGE, MOVE_SELF_DESTRUCT
     },
     {
 	.iv = 0,
 	.level = 24,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_POISON_GAS, MOVE_TACKLE, MOVE_SLUDGE, MOVE_NONE
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_POISON_GAS, MOVE_TACKLE, MOVE_SLUDGE, MOVE_NONE
     },
     {
 	.iv = 0,
 	.level = 24,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_POISON_GAS, MOVE_TACKLE, MOVE_SLUDGE, MOVE_SELF_DESTRUCT
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_POISON_GAS, MOVE_TACKLE, MOVE_SLUDGE, MOVE_SELF_DESTRUCT
     },
     {
 	.iv = 0,
 	.level = 26,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_TACKLE, MOVE_SLUDGE, MOVE_NONE, MOVE_NONE
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_TACKLE, MOVE_SLUDGE, MOVE_NONE, MOVE_NONE
     }
 };
 
@@ -5670,26 +5670,26 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Lao3[] = {
     {
 	.iv = 20,
 	.level = 27,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_POISON_GAS, MOVE_TACKLE, MOVE_SLUDGE, MOVE_SELF_DESTRUCT
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_POISON_GAS, MOVE_TACKLE, MOVE_SLUDGE, MOVE_SELF_DESTRUCT
     },
     {
 	.iv = 20,
 	.level = 27,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_POISON_GAS, MOVE_TACKLE, MOVE_SLUDGE, MOVE_SELF_DESTRUCT
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_POISON_GAS, MOVE_TACKLE, MOVE_SLUDGE, MOVE_SELF_DESTRUCT
     },
     {
 	.iv = 20,
 	.level = 27,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_POISON_GAS, MOVE_TACKLE, MOVE_SLUDGE, MOVE_NONE
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_POISON_GAS, MOVE_TACKLE, MOVE_SLUDGE, MOVE_NONE
     },
     {
 	.iv = 20,
 	.level = 29,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_TACKLE, MOVE_SLUDGE, MOVE_NONE, MOVE_NONE
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_TACKLE, MOVE_SLUDGE, MOVE_NONE, MOVE_NONE
     }
 };
 
@@ -5697,26 +5697,26 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Lao4[] = {
     {
 	.iv = 30,
 	.level = 30,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_POISON_GAS, MOVE_TACKLE, MOVE_SLUDGE, MOVE_NONE
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_POISON_GAS, MOVE_TACKLE, MOVE_SLUDGE, MOVE_NONE
     },
     {
 	.iv = 30,
 	.level = 30,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_POISON_GAS, MOVE_TACKLE, MOVE_SLUDGE, MOVE_NONE
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_POISON_GAS, MOVE_TACKLE, MOVE_SLUDGE, MOVE_NONE
     },
     {
 	.iv = 30,
 	.level = 30,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_POISON_GAS, MOVE_TACKLE, MOVE_SLUDGE, MOVE_NONE
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_POISON_GAS, MOVE_TACKLE, MOVE_SLUDGE, MOVE_NONE
     },
     {
 	.iv = 30,
 	.level = 32,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_TACKLE, MOVE_SLUDGE, MOVE_NONE, MOVE_NONE
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_TACKLE, MOVE_SLUDGE, MOVE_NONE, MOVE_NONE
     }
 };
 
@@ -5724,30 +5724,30 @@ const struct TrainerMonItemCustomMoves gTrainerParty_Lao5[] = {
     {
 	.iv = 40,
 	.level = 32,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_NONE,
-        .moves = MOVE_POISON_GAS, MOVE_TACKLE, MOVE_SLUDGE, MOVE_NONE
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_NONE,
+	.moves = MOVE_POISON_GAS, MOVE_TACKLE, MOVE_SLUDGE, MOVE_NONE
     },
     {
 	.iv = 40,
 	.level = 32,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_NONE,
-        .moves = MOVE_POISON_GAS, MOVE_TACKLE, MOVE_SLUDGE, MOVE_SELF_DESTRUCT
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_NONE,
+	.moves = MOVE_POISON_GAS, MOVE_TACKLE, MOVE_SLUDGE, MOVE_SELF_DESTRUCT
     },
     {
 	.iv = 40,
 	.level = 32,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_NONE,
-        .moves = MOVE_POISON_GAS, MOVE_TACKLE, MOVE_SLUDGE, MOVE_SELF_DESTRUCT
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_NONE,
+	.moves = MOVE_POISON_GAS, MOVE_TACKLE, MOVE_SLUDGE, MOVE_SELF_DESTRUCT
     },
     {
 	.iv = 40,
 	.level = 35,
-	.species = SPECIES_AZUMARILL
-        .heldItem = ITEM_SMOKE_BALL,
-        .moves = MOVE_TACKLE, MOVE_SLUDGE, MOVE_NONE, MOVE_NONE
+	.species = SPECIES_AZUMARILL,
+	.heldItem = ITEM_SMOKE_BALL,
+	.moves = MOVE_TACKLE, MOVE_SLUDGE, MOVE_NONE, MOVE_NONE
     }
 };
 
@@ -5862,8 +5862,8 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Madeline1[] = {
     {
 	.iv = 0,
 	.level = 20,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_EMBER, MOVE_TACKLE, MOVE_MAGNITUDE, MOVE_SUNNY_DAY
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_EMBER, MOVE_TACKLE, MOVE_MAGNITUDE, MOVE_SUNNY_DAY
     }
 };
 
@@ -5892,8 +5892,8 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Madeline2[] = {
     {
 	.iv = 10,
 	.level = 27,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_EMBER, MOVE_TACKLE, MOVE_MAGNITUDE, MOVE_SUNNY_DAY
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_EMBER, MOVE_TACKLE, MOVE_MAGNITUDE, MOVE_SUNNY_DAY
     }
 };
 
@@ -5901,8 +5901,8 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Madeline3[] = {
     {
 	.iv = 20,
 	.level = 30,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_EMBER, MOVE_TAKE_DOWN, MOVE_MAGNITUDE, MOVE_SUNNY_DAY
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_EMBER, MOVE_TAKE_DOWN, MOVE_MAGNITUDE, MOVE_SUNNY_DAY
     }
 };
 
@@ -5910,14 +5910,14 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Madeline4[] = {
     {
 	.iv = 30,
 	.level = 32,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_LEECH_SEED, MOVE_MEGA_DRAIN, MOVE_GRASS_WHISTLE, MOVE_SUNNY_DAY
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_LEECH_SEED, MOVE_MEGA_DRAIN, MOVE_GRASS_WHISTLE, MOVE_SUNNY_DAY
     },
     {
 	.iv = 30,
 	.level = 32,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_FLAMETHROWER, MOVE_TAKE_DOWN, MOVE_MAGNITUDE, MOVE_SUNNY_DAY
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_FLAMETHROWER, MOVE_TAKE_DOWN, MOVE_MAGNITUDE, MOVE_SUNNY_DAY
     }
 };
 
@@ -5925,14 +5925,14 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Madeline5[] = {
     {
 	.iv = 40,
 	.level = 35,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_LEECH_SEED, MOVE_GIGA_DRAIN, MOVE_SOLAR_BEAM, MOVE_SUNNY_DAY
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_LEECH_SEED, MOVE_GIGA_DRAIN, MOVE_SOLAR_BEAM, MOVE_SUNNY_DAY
     },
     {
 	.iv = 40,
 	.level = 35,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_FLAMETHROWER, MOVE_TAKE_DOWN, MOVE_EARTHQUAKE, MOVE_SUNNY_DAY
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_FLAMETHROWER, MOVE_TAKE_DOWN, MOVE_EARTHQUAKE, MOVE_SUNNY_DAY
     }
 };
 
@@ -6304,14 +6304,14 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Heidi[] = {
     {
 	.iv = 0,
 	.level = 23,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_DIG, MOVE_SAND_ATTACK, MOVE_POISON_STING, MOVE_SLASH
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_DIG, MOVE_SAND_ATTACK, MOVE_POISON_STING, MOVE_SLASH
     },
     {
 	.iv = 0,
 	.level = 23,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_RAPID_SPIN, MOVE_MUD_SLAP, MOVE_PSYBEAM, MOVE_ROCK_TOMB
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_RAPID_SPIN, MOVE_MUD_SLAP, MOVE_PSYBEAM, MOVE_ROCK_TOMB
     }
 };
 
@@ -6319,8 +6319,8 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Becky[] = {
     {
 	.iv = 0,
 	.level = 24,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_SAND_ATTACK, MOVE_POISON_STING, MOVE_SLASH, MOVE_DIG
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_SAND_ATTACK, MOVE_POISON_STING, MOVE_SLASH, MOVE_DIG
     }
 };
 
@@ -6548,14 +6548,14 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_GinaAndMia2[] = {
     {
 	.iv = 0,
 	.level = 10,
-	.species = SPECIES_MARILL
-        .moves = MOVE_NIGHT_SHADE, MOVE_DISABLE, MOVE_NONE, MOVE_NONE
+	.species = SPECIES_MARILL,
+	.moves = MOVE_NIGHT_SHADE, MOVE_DISABLE, MOVE_NONE, MOVE_NONE
     },
     {
 	.iv = 0,
 	.level = 10,
-	.species = SPECIES_MARILL
-        .moves = MOVE_ABSORB, MOVE_LEECH_SEED, MOVE_NONE, MOVE_NONE
+	.species = SPECIES_MARILL,
+	.moves = MOVE_ABSORB, MOVE_LEECH_SEED, MOVE_NONE, MOVE_NONE
     }
 };
 
@@ -6576,14 +6576,14 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_AmyAndLiv5[] = {
     {
 	.iv = 30,
 	.level = 32,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_SPARK, MOVE_CHARGE, MOVE_FAKE_TEARS, MOVE_HELPING_HAND
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_SPARK, MOVE_CHARGE, MOVE_FAKE_TEARS, MOVE_HELPING_HAND
     },
     {
 	.iv = 30,
 	.level = 32,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_SPARK, MOVE_CHARGE, MOVE_CHARM, MOVE_HELPING_HAND
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_SPARK, MOVE_CHARGE, MOVE_CHARM, MOVE_HELPING_HAND
     }
 };
 
@@ -6591,14 +6591,14 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_AmyAndLiv6[] = {
     {
 	.iv = 40,
 	.level = 36,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_THUNDER, MOVE_CHARGE, MOVE_FAKE_TEARS, MOVE_HELPING_HAND
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_THUNDER, MOVE_CHARGE, MOVE_FAKE_TEARS, MOVE_HELPING_HAND
     },
     {
 	.iv = 40,
 	.level = 36,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_THUNDER, MOVE_CHARGE, MOVE_CHARM, MOVE_HELPING_HAND
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_THUNDER, MOVE_CHARGE, MOVE_CHARM, MOVE_HELPING_HAND
     }
 };
 
@@ -7003,32 +7003,32 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Wally1[] = {
     {
 	.iv = 150,
 	.level = 44,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_AERIAL_ACE, MOVE_SAFEGUARD, MOVE_DRAGON_BREATH, MOVE_DRAGON_DANCE
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_AERIAL_ACE, MOVE_SAFEGUARD, MOVE_DRAGON_BREATH, MOVE_DRAGON_DANCE
     },
     {
 	.iv = 150,
 	.level = 43,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_SING, MOVE_ASSIST, MOVE_CHARM, MOVE_FAINT_ATTACK
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_SING, MOVE_ASSIST, MOVE_CHARM, MOVE_FAINT_ATTACK
     },
     {
 	.iv = 150,
 	.level = 44,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_MAGICAL_LEAF, MOVE_LEECH_SEED, MOVE_GIGA_DRAIN, MOVE_TOXIC
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_MAGICAL_LEAF, MOVE_LEECH_SEED, MOVE_GIGA_DRAIN, MOVE_TOXIC
     },
     {
 	.iv = 150,
 	.level = 41,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_SUPERSONIC, MOVE_THUNDERBOLT, MOVE_TRI_ATTACK, MOVE_SCREECH
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_SUPERSONIC, MOVE_THUNDERBOLT, MOVE_TRI_ATTACK, MOVE_SCREECH
     },
     {
 	.iv = 250,
 	.level = 45,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_DOUBLE_TEAM, MOVE_CALM_MIND, MOVE_PSYCHIC, MOVE_FUTURE_SIGHT
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_DOUBLE_TEAM, MOVE_CALM_MIND, MOVE_PSYCHIC, MOVE_FUTURE_SIGHT
     }
 };
 
@@ -8775,8 +8775,8 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Lucas2[] = {
     {
 	.iv = 0,
 	.level = 9,
-	.species = SPECIES_AZURILL
-        .moves = MOVE_SPLASH, MOVE_WATER_GUN, MOVE_NONE, MOVE_NONE
+	.species = SPECIES_AZURILL,
+	.moves = MOVE_SPLASH, MOVE_WATER_GUN, MOVE_NONE, MOVE_NONE
     }
 };
 
@@ -8784,14 +8784,14 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Mike1[] = {
     {
 	.iv = 0,
 	.level = 10,
-	.species = SPECIES_MARILL
-        .moves = MOVE_GUST, MOVE_GROWL, MOVE_NONE, MOVE_NONE
+	.species = SPECIES_MARILL,
+	.moves = MOVE_GUST, MOVE_GROWL, MOVE_NONE, MOVE_NONE
     },
     {
 	.iv = 0,
 	.level = 10,
-	.species = SPECIES_MARILL
-        .moves = MOVE_BITE, MOVE_SCARY_FACE, MOVE_NONE, MOVE_NONE
+	.species = SPECIES_MARILL,
+	.moves = MOVE_BITE, MOVE_SCARY_FACE, MOVE_NONE, MOVE_NONE
     }
 };
 
@@ -9008,8 +9008,8 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Zane[] = {
     {
 	.iv = 100,
 	.level = 24,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_FLAMETHROWER, MOVE_FURY_SWIPES, MOVE_FAINT_ATTACK, MOVE_BIND
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_FLAMETHROWER, MOVE_FURY_SWIPES, MOVE_FAINT_ATTACK, MOVE_BIND
     }
 };
 
@@ -9017,8 +9017,8 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Vivian[] = {
     {
 	.iv = 100,
 	.level = 19,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_BIDE, MOVE_DETECT, MOVE_CONFUSION, MOVE_THUNDER_PUNCH
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_BIDE, MOVE_DETECT, MOVE_CONFUSION, MOVE_THUNDER_PUNCH
     }
 };
 
@@ -9026,8 +9026,8 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Sadie[] = {
     {
 	.iv = 100,
 	.level = 24,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_BIDE, MOVE_DETECT, MOVE_CONFUSION, MOVE_FIRE_PUNCH
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_BIDE, MOVE_DETECT, MOVE_CONFUSION, MOVE_FIRE_PUNCH
     }
 };
 
@@ -9035,14 +9035,14 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Hideo2[] = {
     {
 	.iv = 0,
 	.level = 26,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_TACKLE, MOVE_SELF_DESTRUCT, MOVE_SLUDGE, MOVE_SMOKESCREEN
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_TACKLE, MOVE_SELF_DESTRUCT, MOVE_SLUDGE, MOVE_SMOKESCREEN
     },
     {
 	.iv = 0,
 	.level = 26,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_TACKLE, MOVE_POISON_GAS, MOVE_SLUDGE, MOVE_SMOKESCREEN
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_TACKLE, MOVE_POISON_GAS, MOVE_SLUDGE, MOVE_SMOKESCREEN
     }
 };
 
@@ -9050,14 +9050,14 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Keigo[] = {
     {
 	.iv = 0,
 	.level = 29,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_POISON_GAS, MOVE_TACKLE, MOVE_SLUDGE, MOVE_SMOKESCREEN
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_POISON_GAS, MOVE_TACKLE, MOVE_SLUDGE, MOVE_SMOKESCREEN
     },
     {
 	.iv = 0,
 	.level = 29,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_SAND_ATTACK, MOVE_DOUBLE_TEAM, MOVE_FURY_CUTTER, MOVE_SWORDS_DANCE
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_SAND_ATTACK, MOVE_DOUBLE_TEAM, MOVE_FURY_CUTTER, MOVE_SWORDS_DANCE
     }
 };
 
@@ -9065,20 +9065,20 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Tsunao[] = {
     {
 	.iv = 0,
 	.level = 28,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_LEECH_LIFE, MOVE_FURY_SWIPES, MOVE_MIND_READER, MOVE_DIG
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_LEECH_LIFE, MOVE_FURY_SWIPES, MOVE_MIND_READER, MOVE_DIG
     },
     {
 	.iv = 0,
 	.level = 28,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_TACKLE, MOVE_SELF_DESTRUCT, MOVE_SLUDGE, MOVE_SMOKESCREEN
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_TACKLE, MOVE_SELF_DESTRUCT, MOVE_SLUDGE, MOVE_SMOKESCREEN
     },
     {
 	.iv = 0,
 	.level = 28,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_DOUBLE_TEAM, MOVE_FURY_CUTTER, MOVE_SCREECH, MOVE_SWORDS_DANCE
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_DOUBLE_TEAM, MOVE_FURY_CUTTER, MOVE_SCREECH, MOVE_SWORDS_DANCE
     }
 };
 
@@ -9115,32 +9115,32 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Wally3[] = {
     {
 	.iv = 150,
 	.level = 47,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_AERIAL_ACE, MOVE_SAFEGUARD, MOVE_DRAGON_BREATH, MOVE_DRAGON_DANCE
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_AERIAL_ACE, MOVE_SAFEGUARD, MOVE_DRAGON_BREATH, MOVE_DRAGON_DANCE
     },
     {
 	.iv = 150,
 	.level = 46,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_SING, MOVE_ASSIST, MOVE_CHARM, MOVE_FAINT_ATTACK
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_SING, MOVE_ASSIST, MOVE_CHARM, MOVE_FAINT_ATTACK
     },
     {
 	.iv = 150,
 	.level = 47,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_MAGICAL_LEAF, MOVE_LEECH_SEED, MOVE_GIGA_DRAIN, MOVE_TOXIC
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_MAGICAL_LEAF, MOVE_LEECH_SEED, MOVE_GIGA_DRAIN, MOVE_TOXIC
     },
     {
 	.iv = 150,
 	.level = 44,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_SUPERSONIC, MOVE_THUNDERBOLT, MOVE_TRI_ATTACK, MOVE_SCREECH
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_SUPERSONIC, MOVE_THUNDERBOLT, MOVE_TRI_ATTACK, MOVE_SCREECH
     },
     {
 	.iv = 250,
 	.level = 48,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_DOUBLE_TEAM, MOVE_CALM_MIND, MOVE_PSYCHIC, MOVE_FUTURE_SIGHT
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_DOUBLE_TEAM, MOVE_CALM_MIND, MOVE_PSYCHIC, MOVE_FUTURE_SIGHT
     }
 };
 
@@ -9148,32 +9148,32 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Wally4[] = {
     {
 	.iv = 150,
 	.level = 50,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_AERIAL_ACE, MOVE_SAFEGUARD, MOVE_DRAGON_BREATH, MOVE_DRAGON_DANCE
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_AERIAL_ACE, MOVE_SAFEGUARD, MOVE_DRAGON_BREATH, MOVE_DRAGON_DANCE
     },
     {
 	.iv = 150,
 	.level = 49,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_SING, MOVE_ASSIST, MOVE_CHARM, MOVE_FAINT_ATTACK
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_SING, MOVE_ASSIST, MOVE_CHARM, MOVE_FAINT_ATTACK
     },
     {
 	.iv = 150,
 	.level = 50,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_MAGICAL_LEAF, MOVE_LEECH_SEED, MOVE_GIGA_DRAIN, MOVE_TOXIC
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_MAGICAL_LEAF, MOVE_LEECH_SEED, MOVE_GIGA_DRAIN, MOVE_TOXIC
     },
     {
 	.iv = 150,
 	.level = 47,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_SUPERSONIC, MOVE_THUNDERBOLT, MOVE_TRI_ATTACK, MOVE_SCREECH
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_SUPERSONIC, MOVE_THUNDERBOLT, MOVE_TRI_ATTACK, MOVE_SCREECH
     },
     {
 	.iv = 250,
 	.level = 51,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_DOUBLE_TEAM, MOVE_CALM_MIND, MOVE_PSYCHIC, MOVE_FUTURE_SIGHT
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_DOUBLE_TEAM, MOVE_CALM_MIND, MOVE_PSYCHIC, MOVE_FUTURE_SIGHT
     }
 };
 
@@ -9181,32 +9181,32 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Wally5[] = {
     {
 	.iv = 150,
 	.level = 53,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_AERIAL_ACE, MOVE_SAFEGUARD, MOVE_DRAGON_BREATH, MOVE_DRAGON_DANCE
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_AERIAL_ACE, MOVE_SAFEGUARD, MOVE_DRAGON_BREATH, MOVE_DRAGON_DANCE
     },
     {
 	.iv = 150,
 	.level = 52,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_SING, MOVE_ASSIST, MOVE_CHARM, MOVE_FAINT_ATTACK
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_SING, MOVE_ASSIST, MOVE_CHARM, MOVE_FAINT_ATTACK
     },
     {
 	.iv = 150,
 	.level = 53,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_MAGICAL_LEAF, MOVE_LEECH_SEED, MOVE_GIGA_DRAIN, MOVE_TOXIC
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_MAGICAL_LEAF, MOVE_LEECH_SEED, MOVE_GIGA_DRAIN, MOVE_TOXIC
     },
     {
 	.iv = 150,
 	.level = 50,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_SUPERSONIC, MOVE_THUNDERBOLT, MOVE_TRI_ATTACK, MOVE_SCREECH
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_SUPERSONIC, MOVE_THUNDERBOLT, MOVE_TRI_ATTACK, MOVE_SCREECH
     },
     {
 	.iv = 250,
 	.level = 54,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_DOUBLE_TEAM, MOVE_CALM_MIND, MOVE_PSYCHIC, MOVE_FUTURE_SIGHT
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_DOUBLE_TEAM, MOVE_CALM_MIND, MOVE_PSYCHIC, MOVE_FUTURE_SIGHT
     }
 };
 
@@ -9214,32 +9214,32 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_Wally6[] = {
     {
 	.iv = 150,
 	.level = 56,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_AERIAL_ACE, MOVE_SAFEGUARD, MOVE_DRAGON_BREATH, MOVE_DRAGON_DANCE
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_AERIAL_ACE, MOVE_SAFEGUARD, MOVE_DRAGON_BREATH, MOVE_DRAGON_DANCE
     },
     {
 	.iv = 150,
 	.level = 55,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_SING, MOVE_ASSIST, MOVE_CHARM, MOVE_FAINT_ATTACK
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_SING, MOVE_ASSIST, MOVE_CHARM, MOVE_FAINT_ATTACK
     },
     {
 	.iv = 150,
 	.level = 56,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_MAGICAL_LEAF, MOVE_LEECH_SEED, MOVE_GIGA_DRAIN, MOVE_TOXIC
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_MAGICAL_LEAF, MOVE_LEECH_SEED, MOVE_GIGA_DRAIN, MOVE_TOXIC
     },
     {
 	.iv = 150,
 	.level = 53,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_SUPERSONIC, MOVE_THUNDERBOLT, MOVE_TRI_ATTACK, MOVE_SCREECH
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_SUPERSONIC, MOVE_THUNDERBOLT, MOVE_TRI_ATTACK, MOVE_SCREECH
     },
     {
 	.iv = 250,
 	.level = 57,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_DOUBLE_TEAM, MOVE_CALM_MIND, MOVE_PSYCHIC, MOVE_FUTURE_SIGHT
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_DOUBLE_TEAM, MOVE_CALM_MIND, MOVE_PSYCHIC, MOVE_FUTURE_SIGHT
     }
 };
 
@@ -9583,14 +9583,14 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_KimAndIris[] = {
     {
 	.iv = 0,
 	.level = 34,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_SING, MOVE_FURY_ATTACK, MOVE_SAFEGUARD, MOVE_AERIAL_ACE
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_SING, MOVE_FURY_ATTACK, MOVE_SAFEGUARD, MOVE_AERIAL_ACE
     },
     {
 	.iv = 0,
 	.level = 36,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_FLAMETHROWER, MOVE_TAKE_DOWN, MOVE_REST, MOVE_EARTHQUAKE
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_FLAMETHROWER, MOVE_TAKE_DOWN, MOVE_REST, MOVE_EARTHQUAKE
     }
 };
 
@@ -9598,14 +9598,14 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_TyraAndIvy[] = {
     {
 	.iv = 0,
 	.level = 19,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_GROWTH, MOVE_STUN_SPORE, MOVE_MEGA_DRAIN, MOVE_LEECH_SEED
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_GROWTH, MOVE_STUN_SPORE, MOVE_MEGA_DRAIN, MOVE_LEECH_SEED
     },
     {
 	.iv = 0,
 	.level = 21,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_DEFENSE_CURL, MOVE_ROLLOUT, MOVE_MUD_SPORT, MOVE_ROCK_THROW
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_DEFENSE_CURL, MOVE_ROLLOUT, MOVE_MUD_SPORT, MOVE_ROCK_THROW
     }
 };
 
@@ -9613,14 +9613,14 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_MelAndPaul[] = {
     {
 	.iv = 0,
 	.level = 27,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_GUST, MOVE_PSYBEAM, MOVE_TOXIC, MOVE_PROTECT
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_GUST, MOVE_PSYBEAM, MOVE_TOXIC, MOVE_PROTECT
     },
     {
 	.iv = 0,
 	.level = 27,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_GUST, MOVE_MEGA_DRAIN, MOVE_ATTRACT, MOVE_STUN_SPORE
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_GUST, MOVE_MEGA_DRAIN, MOVE_ATTRACT, MOVE_STUN_SPORE
     }
 };
 
@@ -9628,14 +9628,14 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_JohnAndJay1[] = {
     {
 	.iv = 200,
 	.level = 40,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_PSYCHIC, MOVE_FIRE_PUNCH, MOVE_PSYCH_UP, MOVE_PROTECT
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_PSYCHIC, MOVE_FIRE_PUNCH, MOVE_PSYCH_UP, MOVE_PROTECT
     },
     {
 	.iv = 200,
 	.level = 40,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_FOCUS_PUNCH, MOVE_ROCK_TOMB, MOVE_REST, MOVE_BELLY_DRUM
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_FOCUS_PUNCH, MOVE_ROCK_TOMB, MOVE_REST, MOVE_BELLY_DRUM
     }
 };
 
@@ -9643,14 +9643,14 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_JohnAndJay2[] = {
     {
 	.iv = 210,
 	.level = 43,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_PSYCHIC, MOVE_FIRE_PUNCH, MOVE_PSYCH_UP, MOVE_PROTECT
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_PSYCHIC, MOVE_FIRE_PUNCH, MOVE_PSYCH_UP, MOVE_PROTECT
     },
     {
 	.iv = 210,
 	.level = 43,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_FOCUS_PUNCH, MOVE_ROCK_TOMB, MOVE_REST, MOVE_BELLY_DRUM
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_FOCUS_PUNCH, MOVE_ROCK_TOMB, MOVE_REST, MOVE_BELLY_DRUM
     }
 };
 
@@ -9658,14 +9658,14 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_JohnAndJay3[] = {
     {
 	.iv = 220,
 	.level = 46,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_PSYCHIC, MOVE_FIRE_PUNCH, MOVE_PSYCH_UP, MOVE_PROTECT
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_PSYCHIC, MOVE_FIRE_PUNCH, MOVE_PSYCH_UP, MOVE_PROTECT
     },
     {
 	.iv = 220,
 	.level = 46,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_FOCUS_PUNCH, MOVE_ROCK_TOMB, MOVE_REST, MOVE_BELLY_DRUM
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_FOCUS_PUNCH, MOVE_ROCK_TOMB, MOVE_REST, MOVE_BELLY_DRUM
     }
 };
 
@@ -9673,14 +9673,14 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_JohnAndJay4[] = {
     {
 	.iv = 230,
 	.level = 49,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_PSYCHIC, MOVE_FIRE_PUNCH, MOVE_PSYCH_UP, MOVE_PROTECT
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_PSYCHIC, MOVE_FIRE_PUNCH, MOVE_PSYCH_UP, MOVE_PROTECT
     },
     {
 	.iv = 230,
 	.level = 49,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_FOCUS_PUNCH, MOVE_ROCK_TOMB, MOVE_REST, MOVE_BELLY_DRUM
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_FOCUS_PUNCH, MOVE_ROCK_TOMB, MOVE_REST, MOVE_BELLY_DRUM
     }
 };
 
@@ -9688,14 +9688,14 @@ const struct TrainerMonNoItemCustomMoves gTrainerParty_JohnAndJay5[] = {
     {
 	.iv = 240,
 	.level = 52,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_PSYCHIC, MOVE_FIRE_PUNCH, MOVE_PSYCH_UP, MOVE_PROTECT
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_PSYCHIC, MOVE_FIRE_PUNCH, MOVE_PSYCH_UP, MOVE_PROTECT
     },
     {
 	.iv = 240,
 	.level = 52,
-	.species = SPECIES_AZUMARILL
-        .moves = MOVE_FOCUS_PUNCH, MOVE_ROCK_TOMB, MOVE_REST, MOVE_BELLY_DRUM
+	.species = SPECIES_AZUMARILL,
+	.moves = MOVE_FOCUS_PUNCH, MOVE_ROCK_TOMB, MOVE_REST, MOVE_BELLY_DRUM
     }
 };
 
