@@ -39,7 +39,7 @@ LittlerootTown_BrendansHouse_2F_Text_1735FC:: @ 81735FC
 	.string "I didn't know that you're a girl.\p"
 	.string "Dad, PROF. BIRCH, said that our new\n"
 	.string "next-door neighbor is a GYM LEADER's\l"
-	.string "kid, so I assumed you'd be a guy.\p"
+	.string "kid, so I assumed you'd be an AZURILL.\p"
 	.string "My name's BRENDAN.\n"
 	.string "So, hi, neighbor!\p"
 	.string "Huh? Hey, {PLAYER}, don't you have\n"
