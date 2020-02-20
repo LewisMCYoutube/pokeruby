@@ -74,10 +74,10 @@ IslandCave_EventScript_15EF9D:: @ 815EF9D
 	lock
 	faceplayer
 	waitse
-	playmoncry SPECIES_REGICE, 2
-	delay 40
+	playmoncry SPECIES_AZUMARILL, 2
+	delay 400
 	waitmoncry
-	setwildbattle SPECIES_REGICE, 40, ITEM_NONE
+	setwildbattle SPECIES_AZUMARILL, 40, ITEM_NONE
 	setflag FLAG_HIDE_REGICE
 	setflag FLAG_SYS_CTRL_OBJ_DELETE
 	special ScrSpecial_StartRegiBattle
