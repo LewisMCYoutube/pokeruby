@@ -38,6 +38,7 @@
 #include "constants/moves.h"
 #include "constants/species.h"
 #include "constants/weather.h"
+#include "data/text/species_names_en.h"
 
 #if ENGLISH
 #define CHAR_DECIMAL_SEPARATOR CHAR_PERIOD
