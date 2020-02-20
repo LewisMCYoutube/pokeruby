@@ -55,10 +55,10 @@ AncientTomb_EventScript_15F050:: @ 815F050
 	lock
 	faceplayer
 	waitse
-	playmoncry SPECIES_REGISTEEL, 2
+	playmoncry SPECIES_AZUMARILL, 2
 	delay 40
 	waitmoncry
-	setwildbattle SPECIES_REGISTEEL, 40, ITEM_NONE
+	setwildbattle SPECIES_AZUMARILL, 40, ITEM_NONE
 	setflag FLAG_HIDE_REGISTEEL
 	setflag FLAG_SYS_CTRL_OBJ_DELETE
 	special ScrSpecial_StartRegiBattle
