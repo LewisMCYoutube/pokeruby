@@ -38,7 +38,6 @@
 #include "constants/moves.h"
 #include "constants/species.h"
 #include "constants/weather.h"
-#include "data/text/species_names_en.h"
 
 #if ENGLISH
 #define CHAR_DECIMAL_SEPARATOR CHAR_PERIOD
@@ -1747,8 +1746,7 @@ void PutZigzagoonInPlayerParty(void)
     SetMonData(&gPlayerParty[0], MON_DATA_MOVE2, &monData);
     SetMonData(&gPlayerParty[0], MON_DATA_MOVE3, &monData);
     SetMonData(&gPlayerParty[0], MON_DATA_MOVE4, &monData);
-    monData = gSpeciesNames[SPECIES_ZIGZAGOON];
-    SetMonData(&gPlayerParty[0], MON_DATA_NICKNAME, &monData);
+    SetMonData(&gPlayerParty[0], MON_DATA_NICKNAME, "ZIGZAGOON");
 }
 
 bool8 IsStarterInParty(void)
