@@ -13,9 +13,9 @@ SkyPillar_Top_EventScript_15F312:: @ 815F312
 SkyPillar_Top_EventScript_15F316:: @ 815F316
 	lock
 	faceplayer
-	setwildbattle SPECIES_RAYQUAZA, 70, ITEM_NONE
+	setwildbattle SPECIES_AZUMARILL, 70, ITEM_NONE
 	waitse
-	playmoncry SPECIES_RAYQUAZA, 2
+	playmoncry SPECIES_AZUMARILL, 2
 	delay 40
 	waitmoncry
 	setflag FLAG_HIDE_RAYQUAZA
